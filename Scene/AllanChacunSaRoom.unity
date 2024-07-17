@@ -447,10 +447,66 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3033792902168386888, guid: 4d45b8d2cb7c40445b3496cd867b85f1, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
+    - target: {fileID: 3794391009851561327, guid: 4d45b8d2cb7c40445b3496cd867b85f1, type: 3}
+      propertyPath: SizeModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3794391009851561327, guid: 4d45b8d2cb7c40445b3496cd867b85f1, type: 3}
+      propertyPath: InitialModule.size3D
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3794391009851561327, guid: 4d45b8d2cb7c40445b3496cd867b85f1, type: 3}
+      propertyPath: InitialModule.startSize.scalar
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3794391009851561327, guid: 4d45b8d2cb7c40445b3496cd867b85f1, type: 3}
+      propertyPath: InitialModule.startSizeY.scalar
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3794391009851561327, guid: 4d45b8d2cb7c40445b3496cd867b85f1, type: 3}
+      propertyPath: InitialModule.startSizeZ.scalar
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3794391009851561327, guid: 4d45b8d2cb7c40445b3496cd867b85f1, type: 3}
+      propertyPath: InitialModule.startSize.minScalar
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3794391009851561327, guid: 4d45b8d2cb7c40445b3496cd867b85f1, type: 3}
+      propertyPath: InitialModule.startSizeY.minScalar
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3794391009851561327, guid: 4d45b8d2cb7c40445b3496cd867b85f1, type: 3}
+      propertyPath: InitialModule.startSizeZ.minScalar
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3794391009851561327, guid: 4d45b8d2cb7c40445b3496cd867b85f1, type: 3}
+      propertyPath: SizeModule.curve.maxCurve.m_Curve.Array.data[1].time
+      value: 0.059417725
+      objectReference: {fileID: 0}
+    - target: {fileID: 3794391009851561327, guid: 4d45b8d2cb7c40445b3496cd867b85f1, type: 3}
+      propertyPath: SizeModule.curve.maxCurve.m_Curve.Array.data[0].value
+      value: 0.71621704
+      objectReference: {fileID: 0}
+    - target: {fileID: 3794391009851561327, guid: 4d45b8d2cb7c40445b3496cd867b85f1, type: 3}
+      propertyPath: SizeModule.curve.maxCurve.m_Curve.Array.data[1].value
+      value: 0.35135078
+      objectReference: {fileID: 0}
+    - target: {fileID: 3818322710011629871, guid: 4d45b8d2cb7c40445b3496cd867b85f1, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
     - target: {fileID: 5101123010005475540, guid: 4d45b8d2cb7c40445b3496cd867b85f1, type: 3}
       propertyPath: m_Name
       value: Center Allan Malinowski
       objectReference: {fileID: 0}
+    - target: {fileID: 5349732158547620056, guid: 4d45b8d2cb7c40445b3496cd867b85f1, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
     - target: {fileID: 8837226519720146243, guid: 4d45b8d2cb7c40445b3496cd867b85f1, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -491,6 +547,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9211901468263453884, guid: 4d45b8d2cb7c40445b3496cd867b85f1, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5d8af8f434f69794eabd684fb44b4fbf, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
