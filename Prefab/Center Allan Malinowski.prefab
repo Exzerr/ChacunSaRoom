@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 8291787836500865131}
   - component: {fileID: 2552783553237985755}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: AllanPlace
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28,7 +28,7 @@ Transform:
   m_GameObject: {fileID: 2552651983920768973}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.105, y: 1.118, z: 1.434}
+  m_LocalPosition: {x: 0.732, y: 1.118, z: -0.588}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_ConstrainProportionsScale: 1
   m_Children: []

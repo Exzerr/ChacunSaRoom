@@ -1,15 +1,15 @@
 {
     "name": "be.malinowski.allanroom",
     "version": "0.0.1",
-    "displayName": "Start pack to work on Tehcno Room",
-    "description": "Start pack to work in group on the Techno Room project",
+    "displayName": "Allan Room",
+    "description": "Start pack to work in group",
     "unity": "2020.3",
     "unityRelease": "0f1",
     
     "author": {
-      "name": "Eloi Stree",
-      "email": "eloistree@gmail.com",
-      "url": "https://github.com/EloiStree"
+      "name": "AllanMalinowski",
+      "email": "allanmalinowski@yahoo.be",
+      "url": "https://github.com/Exzerr"
     }
     
   }
